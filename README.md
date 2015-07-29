@@ -1,5 +1,10 @@
 # Bootbox - Bootstrap powered alert, confirm and flexible dialog boxes
 
+This forked version of Bootbox displays the alert in a <code> block, intended to be used as a popup with code inside.
+
+Intended to be used with [hljs](https://highlightjs.org/)
+
+
 Please see http://bootboxjs.com for full usage instructions, or head over to http://paynedigital.com/bootbox for
 the original writeup about the project.
 
